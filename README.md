@@ -1,3 +1,6 @@
+![Banner](https://github.com/Brayanvangarden/Brayanvangarden/blob/main/baner.png)
+
+
 # 👋 Hi, I'm Brayan Aguirre
 
 ### 💻 Full Stack Developer | Advanced Software Engineering 
