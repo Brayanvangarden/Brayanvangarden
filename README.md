@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Brayan Aguirre
 
-### 💻 Full Stack Developer | Advanced Software Engineering 
+### 💻 Full Stack Developer |  Software Engineering 
 
 Welcome to my profile! I am a developer with a passion for creating functional, business-oriented web solutions. My main focus is full stack development, leveraging technologies like **React**, **Node.js**, and **C# .NET**.
 
