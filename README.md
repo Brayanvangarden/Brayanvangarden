@@ -1,51 +1,56 @@
 # 👋 Hi, I'm Brayan Aguirre
 
-🚀 Advanced Software Engineering student (**UTN, expected graduation 2025**)  
-💻 **Freelance Full Stack Developer** with experience in:  
-- React, Node.js, C# .NET, SQL  
-- API development, appointment booking, and inventory management  
-- Functional web projects for real businesses  
+### 💻 Full Stack Developer | Advanced Software Engineering Student
+
+Welcome to my profile! I am a developer with a passion for creating functional, business-oriented web solutions. My main focus is full stack development, leveraging technologies like **React**, **Node.js**, and **C# .NET**.
 
 ---
 
-## 🌟 Featured Projects
-- **[BeYou](https://github.com/Brayanvangarden/BeYou):** Platform for appointment booking and inventory management.  
-- **Appointment Booking and Billing:** System for reservations and billing.  
-- **BurgeTown:** Fast food ordering and billing system.  
-- **ArtInk Studio:** Tattoo appointment booking and billing platform.  
-- **FerreControl:** Inventory and billing management for a hardware store.  
+### 🚀 Skills & Technologies
 
----
-
-## ⚡ Technologies
+**Frontend:**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend:**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Databases:**
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-## 📫 Contact
-- 📍 Alajuela, Costa Rica  
-- ✉️ [gerardo16@hotmail.com.ar](mailto:gerardo16@hotmail.com.ar)  
-- 💼 [LinkedIn](https://linkedin.com/in/brayan-aguirre-a454a07b/)  
-- 💻 [Portfolio / GitHub](https://github.com/Brayanvangarden)  
+### 🌟 Featured Projects
+
+- **[BeYou](https://github.com/Brayanvangarden/BeYou)**: A comprehensive platform for appointment booking and inventory management for businesses. Built with **[Mention key project technologies here]**.
+- **Appointment Booking and Billing System**: A solution designed to optimize reservation management and billing processes. Ideal for clinics, studios, or small businesses.
+- **BurgeTown**: A food ordering and billing system for a fast-food restaurant, improving service efficiency.
+- **ArtInk Studio**: An appointment booking and billing platform for tattoo studios, simplifying client and appointment management.
+- **FerreControl**: An inventory and billing management system for a hardware store, optimizing stock control and sales.
+
+---
+
+### 🎓 Education & Experience
+
+- **Software Engineering** - Universidad Tecnológica Nacional (UTN), expected graduation 2025.
+- **Freelance Full Stack Developer** - Creating custom web solutions for real businesses, with a focus on functionality and user experience.
+
+---
+
+### 📫 Contact Me
+
+- 📍 Alajuela, Costa Rica
+- ✉️ [gerardo16@hotmail.com.ar](mailto:gerardo16@hotmail.com.ar)
+- 💼 [LinkedIn](https://linkedin.com/in/brayan-aguirre-a454a07b/)
+- 🔗 [Portfolio / GitHub](https://github.com/Brayanvangarden)
 
 ---
 
 ![Brayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brayanvangarden&show_icons=true&theme=tokyonight)
-
-<!--
-**Brayanvangarden/Brayanvangarden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
