@@ -44,7 +44,7 @@ Welcome to my profile! I am a developer with a passion for creating functional, 
 
 ### 🎓 Education & Experience
 
-- **Software Engineering** - Universidad Tecnológica Nacional (UTN), 2025.
+- **Software Engineering** - Universidad Técnica Nacional (UTN), 2025.
 - **Freelance Full Stack Developer** - Creating custom web solutions for real businesses, with a focus on functionality and user experience.
 
 ---
