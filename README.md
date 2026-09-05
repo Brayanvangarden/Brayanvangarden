@@ -32,7 +32,7 @@ Welcome to my profile! I am a developer with a passion for creating functional, 
 
 ---
 
-### 🌟 Featured Projects
+###  Featured Projects
 
 - **[BeYou](https://github.com/Brayanvangarden/BeYou)**: A comprehensive platform for appointment booking and inventory management for businesses. Built with **[Mention key project technologies here]**.
 - **Appointment Booking and Billing System**: A solution designed to optimize reservation management and billing processes. Ideal for clinics, studios, or small businesses.
