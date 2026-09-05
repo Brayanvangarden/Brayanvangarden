@@ -1,15 +1,15 @@
 ![Banner](https://github.com/Brayanvangarden/Brayanvangarden/blob/main/baner.png)
 
 
-# 👋 Hi, I'm Brayan Aguirre
+#  Hi, I'm Brayan Aguirre
 
-### 💻 Full Stack Developer |  Software Engineering 
+###  Full Stack Developer |  Software Engineering 
 
 Welcome to my profile! I am a developer with a passion for creating functional, business-oriented web solutions. My main focus is full stack development, leveraging technologies like **React**, **Node.js**, and **C# .NET**.
 
 ---
 
-### 🚀 Skills & Technologies
+###  Skills & Technologies
 
 **Frontend:**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -42,7 +42,7 @@ Welcome to my profile! I am a developer with a passion for creating functional, 
 
 ---
 
-### 🎓 Education & Experience
+###  Education & Experience
 
 - **Software Engineering** - Universidad Técnica Nacional (UTN), 2025.
 - **Freelance Full Stack Developer** - Creating custom web solutions for real businesses, with a focus on functionality and user experience.
